@@ -5,7 +5,7 @@ I'm Norman Cerros and I live in El Paso,Tx.
 - I am currently enrolled in the SMU Full-Stack coding Bootcamp.
 - I really enjoy languages and frameworks like Javascript and mysql, as well as working with a group of developers.
 - Since I started the program, coding has become fundamental in my daily basis: I eat, drink, and dream coding.
-- I am currently leraning MondoDB.
+- I am currently leraning MongoDB.
  
 
  ## Connect with me:

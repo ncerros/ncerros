@@ -14,7 +14,7 @@ I'm Norman Cerros and I live in El Paso,Tx.
 <!-- [<img align="left" alt="ncerros | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <!-- [instagram]: https://www.instagram.com/ncerros/ -->
-[linkedin]: https://linkedin.com/in/ncerros
+[linkedin]: www.linkedin.com/in/ncerros-608064213
 [portfolio]: https://ncerros.github.io/profile/
 
 <br />

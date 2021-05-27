@@ -10,14 +10,12 @@ I'm Norman Cerros and I live in El Paso,Tx.
 
  ## Connect with me:
  
-[<img align="left" alt="ncerros | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="ncerros | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<img align="left" alt="GitHub" width="35px" 
-src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ 
+[<img align="left" alt="github | github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<!-- [instagram]: https://www.instagram.com/ncerros/ -->
-[linkedin]: www.linkedin.com/in/ncerros-608064213
-[portfolio]: https://ncerros.github.io/portfolio-nc/
+
 
 <br />
 
@@ -54,3 +52,12 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <img align="left" alt="ncerros' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncerros" />
 
 </details>
+
+<br />
+<br />
+
+
+
+[github]: https://ncerros.github.io/portfolio-nc/
+[instagram]: https://www.instagram.com/ncerros/
+[linkedin]: https://linkedin.com/in/ncerros-608064213

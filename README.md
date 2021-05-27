@@ -3,19 +3,21 @@
 I'm Norman Cerros and I live in El Paso,Tx. 
 - I am always excited and passionate about helping people, continuing to learn, and improve my skills daily. 
 - I am currently enrolled in the SMU Full-Stack coding Bootcamp.
-- I really enjoy languages and frameworks like Javascript and mysql, as well as working with a group of developers.
+- I really enjoy languages and frameworks, as well as working with a group of developers.
 - Since I started the program, coding has become fundamental in my daily basis: I eat, drink, and dream coding.
-- I am currently leraning MongoDB.
+- I am currently learning MongoDB.
  
 
  ## Connect with me:
  
 [<img align="left" alt="ncerros | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="ncerros | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<img align="left" alt="GitHub" width="35px" 
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <!-- [instagram]: https://www.instagram.com/ncerros/ -->
 [linkedin]: www.linkedin.com/in/ncerros-608064213
-[portfolio]: https://ncerros.github.io/profile/
+[portfolio]: https://ncerros.github.io/portfolio-nc/
 
 <br />
 

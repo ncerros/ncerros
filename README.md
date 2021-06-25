@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Norman Cerros and I live in El Paso,Tx. 
+ 
 Driven Full Stack Developer with a background in sales and customer service and a Full-Stack Certificate from the Southern Methodist University in Dallas, TX. During the intensive boot camp, I worked on multiple group projects honing skills in Node.js, Express, Handlebars, SQL, JavaScript, MongoDB, React, CSS, and HTML. I recently collaborated with a team of 4 to build an application from start to finish and was able to demo it to a group of industry professionals with positive reviews. I enjoy collaborating and working on a diverse team while solving problems in high-stress environments. An articulate individual who enjoys connecting with co-workers and is passionate about building applications that assist everyday people to make their lives easier. Looking to bring my knowledge, communication, and technical skills adding value to an organization while focusing on continuous learning and engaging in my community to give back in the field of web development.
 
 
